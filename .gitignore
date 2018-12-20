@@ -1,3 +1,6 @@
 cifar10_train.p
 
 data/*
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
